@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirjay Kumar</h1>
+<h1 align="center">Hello 👋, I'm Nirjay Kumar</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 MERN **Full-Stack Developer**
