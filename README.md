@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nirjay Kumar</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🔭 MERN **Full-Stack Developer**
 
-- 🌱 I’m currently learning **Exploring DevOps**
+- 🌱 I’m currently **Exploring DevOps**
 
 - 📚 Machine Learning and **Artificial Intelligence**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github.com/nrv28](www.github.com/nrv28)
 
-- 💬 Ask me about **Web development, Data Structures, Algorithms, or anything related to software engineering. I'm here to help!**
+- 💬 Ask me about **Web development, Data Structures, Algorithms, or anything related to Software engineering. I'm here to help!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
