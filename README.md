@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Nirjay Kumar</h1>
 <p align="center">
-  <a href="https://github.com/nrv28"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Software+Developer,;MERN+Stack+Developer,;Exploring+DevOps,;ML+Enthusiast"></a>
+  <a href="https://github.com/nrv28"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&size=24&center=true&vCenter=true&width=600&height=100&lines=Software+Developer;MERN+Stack+Developer;Exploring+DevOps,;ML+Enthusiast"></a>
 </p>
 
 - 🔭 MERN **Full-Stack Developer**
